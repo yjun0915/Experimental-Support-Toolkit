@@ -44,4 +44,4 @@ try:
 except Exception as e:
     print(f"API 호출 중 오류 발생: {e}")
 
-#asdfadsd454545454521234343554545454545
+#asdfadsd454545454521234343554545454545asjkfgahds
