@@ -43,5 +43,3 @@ try:
 
 except Exception as e:
     print(f"API 호출 중 오류 발생: {e}")
-
-    # nothing
