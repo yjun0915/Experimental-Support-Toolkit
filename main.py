@@ -44,7 +44,7 @@ try:
 except Exception as e:
     print(f"API 호출 중 오류 발생: {e}")
 
-print('hello')
-print('12312321')
-print('4545456')
+print('hello**********')
+print('12312321*******')
+print('4545456********')
 #asdfadsd454545454521234343554545454545asjkfgahdssdfgkjsdf
